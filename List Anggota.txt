@@ -1,0 +1,8 @@
+Anggota Kelompok 2 Website KelasKita :
+
+1. Aliq Nur Shiddiq (607012400101) : SignIn, SignUp, Forget Password, Verifikasi Forget Password, Password Baru, FAQ, ContactUs, AboutUs, Syarat dan Ketentuan.
+
+2. Shafnat Fuaini Ramadhan (607012400075) :Explore, Index Profile, kelasKita (belum Login), kelasKita (kosong), koleksi, setting hubungkan akun, setting keluar, setting notifikasi, setting preferensi, setting profile, setting tutup akun.
+
+3. Michael Wiranata Situmorang (607012400108
+) : Halaman Utama (belum login, halaman Utama (login), Kategori, Blog, Pengumuman, Room chat, Landing.
